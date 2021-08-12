@@ -1,16 +1,16 @@
 .dino {
   position: absolute;
-  width: 60px;
-  height: 60px;
-  background-image: url(t-rex.png);
+  width: 90px;
+  height: 52px;
+  background-image: url(van_123.png);
   bottom: 0px;
 }
 
 .obstacle {
   position: absolute;
-  width: 60px;
-  height: 60px;
-  background-image: url(cacti.png);
+  width: 90px;
+  height: 52px;
+  background-image: url(van_pdp.png);
   bottom: 0px;
 }
 
